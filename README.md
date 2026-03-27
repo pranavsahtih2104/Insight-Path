@@ -58,11 +58,11 @@ It transforms ambiguous problems into **clear, data-driven choices** using AI-ge
 
 * HTML, CSS, JavaScript
 * React (for dynamic UI)
+* Tailwind css
 
 ### Backend
 
-* Node.js
-* Express.js
+* SpringBoot
 
 ### Database
 
@@ -70,7 +70,7 @@ It transforms ambiguous problems into **clear, data-driven choices** using AI-ge
 
 ### AI/ML Integration
 
-* AI-based decision logic (LLM/API-based or custom logic)
+* Gemini AI
 
 ---
 
